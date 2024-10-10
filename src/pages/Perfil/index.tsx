@@ -1,6 +1,6 @@
 import { useParams } from 'react-router-dom'
 import Header from '../../components/Header'
-import Apresentacao from '../../components/Apresentacao'
+import Apresentacao from '../../components/Bunner'
 import FoodList from '../../components/FoodList'
 import Footer from '../../components/Footer'
 import { useGetRestaurantSelectedQuery } from '../../services/api'
